@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Project  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohithkrishnaa&repo=Train-Delay-Prediction-Model&theme=tokyonight)](https://github.com/mohithkrishnaa/Train-Delay-Prediction-Model)
+[![Train Delay Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=mohithkrishnaa&repo=Train-Delay-Prediction-Model&theme=tokyonight)](https://github.com/mohithkrishnaa/Train-Delay-Prediction-Model)
 
 ### 🚆 Train Delay Prediction Model  
 
@@ -64,9 +64,9 @@
 
 ## 📈 GitHub Stats  
 
-![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohithkrishnaa&show_icons=true&theme=tokyonight)
+![Mohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithkrishnaa&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithkrishnaa&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithkrishnaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
