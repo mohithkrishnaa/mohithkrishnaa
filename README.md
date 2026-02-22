@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohith Krishna  
 
-<!--
-**mohithkrishnaa/mohithkrishnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & Data Engineering)  
+☁️ Cloud & Data Engineering Enthusiast  
+📊 Passionate about Building Scalable Data Pipelines & Backend Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🔭 Currently working on Real-Time Data Pipelines (
+- ☁️ Hands-on experience with AWS (Lambda, EC2, IAM)
+- 📊 Strong in Data Analytics & Visualization
+- 🧠 Interested in Data Analysis & Business Development
+- 🎯 Microsoft DP-900 Certified  
+
+---
+
+## 🛠 Tech Stack  
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+---
+
+## 📈 GitHub Stats  
+
+![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+
+---
+
+## 🤝 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohithKrishna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohith-krishnaa/)
+
+📧 Email: mohitkrishnamr@gmai.com
