@@ -2,13 +2,13 @@
 
 🎓 B.Tech CSE (AI & Data Engineering)  
 ☁️ Cloud & Data Engineering Enthusiast  
-📊 Passionate about Building Scalable Data Pipelines & Backend Systems  
+📊 Passionate about Building Scalable Data Pipelines , Backend Systems & Business Solutions
 
 ---
 
 ## 🚀 About Me  
 
-- 🔭 Currently working on Real-Time Data Pipelines (
+- 🔭 Currently working on Real-Time Data Pipelines 
 - ☁️ Hands-on experience with AWS (Lambda, EC2, IAM)
 - 📊 Strong in Data Analytics & Visualization
 - 🧠 Interested in Data Analysis & Business Development
@@ -40,20 +40,40 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
 ---
+---
+---
 
-## 📈 GitHub Stats  
+## 🚀 Featured Project  
 
-![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohithkrishnaa&repo=Train-Delay-Prediction-Model&theme=tokyonight)](https://github.com/mohithkrishnaa/Train-Delay-Prediction-Model)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### 🚆 Train Delay Prediction Model  
+
+🔹 Built using Python & Machine Learning  
+🔹 Performs data preprocessing & feature engineering  
+🔹 Applies predictive modeling for delay forecasting  
+🔹 Designed for real-world railway data scenarios  
+
+📌 Focus Areas:
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Model Training & Evaluation  
+- Performance Optimization  
 
 ---
 
+## 📈 GitHub Stats  
+
+![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohithkrishnaa&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithkrishnaa&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohithKrishna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohith-krishnaa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohith%20Krishna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohith-krishnaa/)
 
-📧 Email: mohitkrishnamr@gmai.com
+[![Instagram](https://img.shields.io/badge/Instagram-@mohith.krishnaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohith.krishnaa)
+
+📧 Email: mohitkrishnamr@gmail.com
