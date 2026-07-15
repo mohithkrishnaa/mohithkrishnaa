@@ -52,12 +52,6 @@ Microsoft Azure • AWS
 
 Git • GitHub • VS Code • Jupyter Notebook • Streamlit • FastAPI
 
----
-
-
-
----
-
 
 ## 📚 Currently Learning
 
