@@ -1,76 +1,148 @@
-# 👋 Hi, I'm Mohith Krishna  
+<h1 align="center">Hi 👋, I'm Mohith Krishna</h1>
+<h3 align="center">
+AI & Data Engineering Student • Data Analyst • Business Analyst Aspirant
+</h3>
 
-🎓 B.Tech CSE (AI & Data Engineering)  
-☁️ Cloud & Data Engineering Enthusiast  
-📊 Passionate about Building Scalable Data Pipelines , Backend Systems & Business Solutions
-
----
-
-## 🚀 About Me  
-
-- 🔭 Currently working on Real-Time Data Pipelines 
-- ☁️ Hands-on experience with AWS (Lambda, EC2, IAM)
-- 📊 Strong in Data Analytics & Visualization
-- 🧠 Interested in Data Analysis & Business Development
-- 🎯 Microsoft DP-900 Certified  
+<p align="center">
+I enjoy transforming raw data into meaningful insights and building AI-powered applications that solve real-world problems.
+</p>
 
 ---
 
-## 🛠 Tech Stack  
+## 🚀 About Me
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+🎓 B.Tech CSE (AI & Data Engineering) at Lovely Professional University
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+📊 Passionate about
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Cloud Technologies
+- Product Analytics
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+☁️ Certified in Microsoft Azure & Oracle Cloud Infrastructure
 
-### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
----
----
----
-
-## 🚀 Featured Project  
-
-[![Train Delay Prediction Model](https://github-readme-stats.vercel.app/api/pin/?username=mohithkrishnaa&repo=Train-Delay-Prediction-Model&theme=tokyonight)](https://github.com/mohithkrishnaa/Train-Delay-Prediction-Model)
-
-### 🚆 Train Delay Prediction Model  
-
-🔹 Built using Python & Machine Learning  
-🔹 Performs data preprocessing & feature engineering  
-🔹 Applies predictive modeling for delay forecasting  
-🔹 Designed for real-world railway data scenarios  
-
-📌 Focus Areas:
-- Data Cleaning & Preparation  
-- Exploratory Data Analysis (EDA)  
-- Model Training & Evaluation  
-- Performance Optimization  
+💡 Interested in building scalable data products that combine analytics, automation, and AI.
 
 ---
 
+## 🛠️ Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithkrishnaa&layout=compact&theme=tokyonight&hide_border=true)
+### Languages
+
+Python • SQL • Java • JavaScript • HTML • CSS
+
+### Data Analytics
+
+Pandas • NumPy • Power BI • Excel • Matplotlib • Seaborn
+
+### Machine Learning
+
+Scikit-Learn • XGBoost • Feature Engineering • Model Evaluation
+
+### Databases
+
+MySQL • MongoDB
+
+### Cloud
+
+Microsoft Azure • AWS
+
+### Tools
+
+Git • GitHub • VS Code • Jupyter Notebook • Streamlit • FastAPI
 
 ---
 
-## 🤝 Connect With Me  
+## 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohith%20Krishna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohith-krishnaa/)
+### 🚆 Train Delay Prediction & Analysis
 
-[![Instagram](https://img.shields.io/badge/Instagram-@mohith.krishnaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohith.krishnaa)
+- Analysed 250K+ railway records
+- Built an XGBoost prediction model
+- Interactive Streamlit dashboard
+- Data preprocessing & feature engineering
 
-📧 Email: mohitkrishnamr@gmail.com
+**Tech:** Python • Scikit-Learn • Streamlit • Pandas
+
+---
+
+### 📄 DocGen - AI Document Generator
+
+AI-powered platform for generating professional documents using LLMs.
+
+Features:
+- AI document generation
+- DOCX & PDF export
+- FastAPI backend
+- Azure deployment
+
+**Tech:** FastAPI • Gemini API • Azure • MongoDB
+
+---
+
+### ⚡ Smart Energy Consumption Analysis
+
+IoT analytics project for monitoring energy usage.
+
+Features:
+- AWS Lambda
+- IoT Core
+- Athena
+- MongoDB
+- Python Analytics
+
+---
+
+### 📦 Delhivery Logistics Analysis
+
+Performed exploratory data analysis on logistics data to identify delivery trends, delays, and operational bottlenecks.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohithkrishnaa&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithkrishnaa&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithkrishnaa&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Azure Data Engineering
+- Data Warehousing
+- Business Analytics
+- Product Analytics
+- AI Applications
+
+---
+
+## 🌱 Career Goal
+
+My goal is to become a Data Analyst / Business Analyst who leverages analytics and AI to solve business problems and build data-driven products.
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: your_email@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/yourprofile
+
+🌐 Portfolio:
+https://yourportfolio.com
+
+⭐ If you like my work, consider giving a star to the repositories!
