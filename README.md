@@ -54,69 +54,10 @@ Git • GitHub • VS Code • Jupyter Notebook • Streamlit • FastAPI
 
 ---
 
-## 📌 Featured Projects
 
-### 🚆 Train Delay Prediction & Analysis
-
-- Analysed 250K+ railway records
-- Built an XGBoost prediction model
-- Interactive Streamlit dashboard
-- Data preprocessing & feature engineering
-
-**Tech:** Python • Scikit-Learn • Streamlit • Pandas
 
 ---
 
-### 📄 DocGen - AI Document Generator
-
-AI-powered platform for generating professional documents using LLMs.
-
-Features:
-- AI document generation
-- DOCX & PDF export
-- FastAPI backend
-- Azure deployment
-
-**Tech:** FastAPI • Gemini API • Azure • MongoDB
-
----
-
-### ⚡ Smart Energy Consumption Analysis
-
-IoT analytics project for monitoring energy usage.
-
-Features:
-- AWS Lambda
-- IoT Core
-- Athena
-- MongoDB
-- Python Analytics
-
----
-
-### 📦 Delhivery Logistics Analysis
-
-Performed exploratory data analysis on logistics data to identify delivery trends, delays, and operational bottlenecks.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohithkrishnaa&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithkrishnaa&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithkrishnaa&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 📚 Currently Learning
 
@@ -137,12 +78,11 @@ My goal is to become a Data Analyst / Business Analyst who leverages analytics a
 
 ## 🤝 Let's Connect
 
-📧 Email: your_email@gmail.com
+📧 Email: mohitkrishnamr@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://www.linkedin.com/in/mohith-krishnaa/
 
-🌐 Portfolio:
-https://yourportfolio.com
+
 
 ⭐ If you like my work, consider giving a star to the repositories!
